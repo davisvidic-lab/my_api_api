@@ -12,7 +12,7 @@ function getApiResponse() {
     $currentDatetime = date('c'); // 'c' formats the date in ISO 8601
     
     // GitHub URL of the project (replace with your actual repository URL)
-    $githubUrl = 'https://github.com/davisvidic-lab';
+    $githubUrl = 'https://github.com/davisvidic-lab/my_api_api.git';
     
     // Create the response data in an associative array
     $response = array(
